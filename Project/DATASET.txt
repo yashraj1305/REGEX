@@ -1,3 +1,0 @@
-Dataset:
-https://www.dropbox.com/s/b3v8xlc0jq3o6q7/garbage_classification_ai_chall
-enge -dataset.zip?dl=0
